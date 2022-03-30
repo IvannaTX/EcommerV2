@@ -1,0 +1,82 @@
+body {
+    background-color: beige;
+}
+
+.slider {
+  margin: 0;
+}
+
+img.slider{
+  overflow-y: hidden;
+  overflow: hidden;
+}
+
+
+.prodhero{
+    width: 100%;
+    height: 100%;
+    /* background-image:  url("./public/practiceYoga.jpg"); */
+  }
+  
+  #heroprod{
+    position: relative;
+    text-align: center;
+  }
+  
+  .herotext{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+    font-style: italic bolder;
+    color: black;
+  }
+
+h1.quote{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+  }
+
+  h4 {
+      text-align: center;
+
+  }
+
+  accessories.jpg {
+   padding: none;
+
+  }
+
+  .img-1{
+      position:static;
+      min-height: 80vh;
+      width:100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: static;
+      background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.06)), url("https://images.pexels.com/photos/3094230/pexels-photo-3094230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+     }
+ .img-2{
+  position:static;
+  min-height: 80vh;
+  width:100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: static;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.06)), url("https://images.pexels.com/photos/3772502/pexels-photo-3772502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+ }
+ .img-3{
+  position:static;
+  min-height: 80vh;
+  width:100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: static;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.06)), url("https://images.pexels.com/photos/864939/pexels-photo-864939.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+ }

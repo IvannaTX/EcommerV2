@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: papyrus;
+    text-decoration: none;
+    }
+
+    @media only screen and (min-width: 200px) {
+      body {
+        background-color: whitesmoke;
+      }
+    }
+    /*Nav&Footer on each page*/
+    .navbar{
+      list-style: none;
+      text-decoration: none;
+      font-size: 30px;
+      padding: 30px;
+      background-color: #B6AD90;
+      text-align: center;
+    }
+    .navbar-brand{
+      text-decoration: none;
+      color: black;
+      size: 55px;
+    }
+
+    nav li{
+      display: inline-block;
+    }
+    nav li a{
+      text-decoration: none;
+      font-weight: bold;
+      padding: 5px;
+      color: #414833;
+      list-style: none;
+    }
+    
+    /*Products*/
+    main{
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-gap: 1em;
+      padding-bottom: 200px;
+    }
+    .prod{
+      border: 2px solid #333d29;
+      padding: 1em;
+    }
+    main img{
+      width: 200px;
+      height: 200px;
+    }

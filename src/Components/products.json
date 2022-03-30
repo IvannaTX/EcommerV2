@@ -1,0 +1,87 @@
+{ "Products" :[
+  {
+    "category":"equipment",
+    "image":"https://cdn.builder.io/api/v1/image/assets%2Faa96744e7fe74e2a90d22918299c1f1d%2F6f16545e800d40afb117519f802d19a4?format=webp&width=16003.jpg",
+   "title": "THE ESSENTIAL SET",
+    "description": "Set includes 1 “magic” Warrior Mat, 2 Uplifting Blocks, 1 Grounded No-Slip Towel & 1 Yoga Strap for restorative stretching & easy mat-carrying",
+    "price": "$49.99"
+  },
+  {
+    "category":"equipment",
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Faa96744e7fe74e2a90d22918299c1f1d%2Ff4a2303b3ef94039ab1988943fec296a?format=webp&width=1600",
+   "title": "THE ULTIMATE HOME STUDIO SET",
+    "description": "Set includes 1 luxe Alo Moves Annual Subscription Gift Box, 1 Warrior Mat, 1 Grounded No-Slip Mat Towel, 2 Uplifting Blocks, 1 Yoga Strap & our limited-edition, iconic Alo Shopper Tote",
+    "price": "$129.99"
+  },
+  {
+    "category":"clothing",
+    "image": "https://cdn.shopify.com/s/files/1/2185/2813/products/M1133R_04064_b1_s3_a1_1_m75_640x.jpg?v=1647399648",
+   "title": "THE TRIUMPH CREW NECK TEE & CHILL SHORT",
+    "description": "The Triumph Crew Neck Tee is a slim, relaxed fit and classic crew neck make it the most versatile piece in your closet. The Chill Short is made with French terry and has a drawstring, side-zip pockets and single pocket at back.",
+    "price": "49.99"
+  },
+  {
+    "category":"clothing",
+    "image":"https://cdn.shopify.com/s/files/1/2185/2813/products/U3013R_04174_b1_s3_a1_1_m75_750x.jpg?v=1642795749",
+   "title": "RENOWN HOODIE & SWEATPANT",
+    "description": "",
+    "price": "$89.99"
+  },
+  {
+    "category":"clothing",
+    "image":"",
+   "title": "",
+    "description": "",
+    "price": "$64.99"
+  },
+  {
+    "category":"clothing",
+    "image":"",
+   "title": "",
+    "description": "",
+    "price": "$64.99"
+  },
+  {
+    "category":"clothing",
+    "image":"",
+   "title": "",
+    "description": "",
+    "price": "$64.99"
+  },
+  {
+    "category":"clothing",
+    "image":"",
+   "title": "",
+    "description": "",
+    "price": "$64.99"
+  },
+  {
+    "category":"clothing",
+    "image":"",
+   "title": "",
+    "description": "",
+    "price": "$64.99"
+  },
+  {
+    "category":"clothing",
+    "image":"",
+   "title": "",
+    "description": "",
+    "price": "$64.99"
+  },
+  {
+    "category":"clothing",
+    "image":"",
+   "title": "",
+    "description": "",
+    "price": "$64.99"
+  },
+  {
+    "category":"clothing",
+    "image":"",
+   "title": "",
+    "description": "",
+    "price": "$64.99"
+  }
+]
+}

@@ -1,0 +1,16 @@
+.main-footer {
+    text-align:center;
+    background: whitesmoke;
+    padding: 1.25rem;
+    height: 50px;
+  }
+  
+
+  .social{
+    display: flex;
+    justify-content: center;
+   
+  }
+  .icon{
+    padding: 10px;
+  }
