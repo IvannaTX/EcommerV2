@@ -1,5 +1,5 @@
 import React from "react";
-import "./../App.css";
+import "../App.css";
 import Footer from "./Footer/Footer";
 import axios from "axios";
 
